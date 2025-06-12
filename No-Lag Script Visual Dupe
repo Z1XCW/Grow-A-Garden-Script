@@ -1,5 +1,5 @@
 git clone https://github.com/your-username/your-repo-name.git
-cd No-Lag
+cd X1C-Hub Visual Dupe
 cp /path/to/MyScript.lua .   # or manually move the file here
 git add MyScript.lua
 git commit -m "loadstring(game:HttpGet("https://paste.ee/r/sK8PurMG"))()"
